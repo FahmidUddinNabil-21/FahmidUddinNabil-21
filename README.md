@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fahmid Uddin Nabil</h1>
+<h3 align="center">Full-Stack Developer | MERN Specialist</h3>
 
-<!--
-**FahmidUddinNabil-21/FahmidUddinNabil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am a passionate Full-Stack Developer from Bangladesh specializing in the MERN stack. While I enjoy crafting intuitive user interfaces, I am currently deep-diving into <b>Backend Development</b> to master scalable server-side logic and robust system architecture.
+</p>
+
+---
+
+### 🛠️ Current Focus
+- 🔭 **Working on:** [Todish](https://github.com/FahmidUddinNabil-21/Todish-task-management-website.git) – A comprehensive task management platform.
+- 🌱 **Learning:** Advanced Node.js, Express.js architecture, and System Design.
+- 💬 **Ask me about:** React, Tailwind CSS, and MERN integration.
+- 📫 **Reach me:** [nabilfahmid66@gmail.com](mailto:nabilfahmid66@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/FahmidUddinNabil-21" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/fahmid-uddin-nabil-081530281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+### 🚀 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb,express,nodejs,git,postman,pug" alt="My Skills" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahmiduddinnabil-21&show_icons=true&theme=radical&hide_border=true" alt="Fahmid's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiduddinnabil-21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiduddinnabil-21&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
