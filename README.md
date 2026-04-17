@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fahmid Uddin Nabil</h1>
-<h3 align="center">Full-Stack Developer | MERN Specialist</h3>
+<h3 align="center">Front end  Developer</h3>
 
 
 
 <p align="center">
-  I am a passionate Full-Stack Developer from Bangladesh specializing in the MERN stack. While I enjoy crafting intuitive user interfaces, I am currently deep-diving into <b>Backend Development</b> to master scalable server-side logic and robust system architecture.
+Self-taught web developer passionate about building clean and interactive web experiences. Skilled in HTML, CSS, and JavaScript (ES6+), currently diving deeper into JavaScript and React.js.
+
+I learn by doing—constantly building projects to sharpen my skills and turn ideas into real-world applications. Focused on writing clean code, solving problems, and creating user-friendly interfaces.
+
+Always learning. Always building. 🚀
 </p>
 
 ---
 
 ### 🛠️ Current Focus
-- 🔭 **Working on:** [Todish](https://github.com/FahmidUddinNabil-21/Todish-task-management-website.git) – A comprehensive task management platform.
-- 🌱 **Learning:** Advanced Node.js, Express.js architecture, and System Design.
+- 🌱 **Learning:** Advanced Node.js, Express.js architecture.
 - 💬 **Ask me about:** React, Tailwind CSS, and MERN integration.
 - 📫 **Reach me:** [nabilfahmid66@gmail.com](mailto:nabilfahmid66@gmail.com)
 
